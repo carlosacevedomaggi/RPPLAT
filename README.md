@@ -25,11 +25,11 @@ node -v
 On the Pi:
 
 ```bash
-git clone <repository-url> slipway
+git clone https://github.com/carlosacevedomaggi/RPPLAT.git slipway
 cd slipway
 ```
 
-Use the clone URL from this repository. The folder name `slipway` is only local; you can pick another name.
+The folder name `slipway` is only local. You can pick another name.
 
 ## 3. Build it and put it on port 8787
 
